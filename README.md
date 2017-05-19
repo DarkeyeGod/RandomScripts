@@ -8,10 +8,10 @@ External Links [{JUMP}](#external_links)
 
 jQuery:
 - [Itself](#jquery_link)
---
+
 HTML:
 - [Base]()
---
+
 CSS:
 - [Base]()
 
@@ -20,9 +20,11 @@ CSS:
 
 
 # <a id="questions_and_answers"></a> Q&A
-Why Did i make this?
-+ For showing of code
- - For some use of what i make
+
+<dl>
+<dt>Why Did i make this?</dt>
+<dd>I made this for showing off what i make, otherwise it whould have no use.</dd>
+</dl>
 
 ---
 
