@@ -5,7 +5,7 @@ Just random scripts i make when im bored, mainly useless
 External Links [Jump](#external_links)
 
 jQuery:
-- [Snippets](#ref_snipp)
+- [Itself](#jquery_link)
 
 HTML:
 - [Base]()
@@ -61,7 +61,7 @@ CSS:
 
 
 # References
-<a id="ref_snipp"></a>jQuery
+<a id="jquery_link"></a>[jQuery]()
 
 
 ---
